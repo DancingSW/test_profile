@@ -154,7 +154,7 @@ Known Issues and Workarounds:
 BIN_PATH = "/local/repository/bin"
 ETC_PATH = "/local/repository/etc"
 LOWLAT_IMG = "urn:publicid:IDN+emulab.net+image+PowderTeam:U18LL-SRSLTE"
-UBUNTU_IMG = "urn:publicid:IDN+emulab.net+image+emulab-ops//UBUNTU22-64-STD"
+UBUNTU_IMG = "urn:publicid:IDN+emulab.net+image+LENSS:oai-indoor-with_srsran4G"
 COTS_UE_IMG = "urn:publicid:IDN+emulab.net+image+PowderTeam:cots-base-image"
 COMP_MANAGER_ID = "urn:publicid:IDN+emulab.net+authority+cm"
 # old hash from branch bandwidth-testing-abs-sr-bsr-multiple_ue
